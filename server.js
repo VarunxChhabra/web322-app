@@ -5,9 +5,9 @@
 * 
 *  Name: Varun Chhabra Student ID: 170279210 Date: 05 Feb 2023
 *
-*  Cyclic Web App URL: ________________________________________________________
+*  Cyclic Web App URL: https://tan-giraffe-vest.cyclic.app
 *
-*  GitHub Repository URL: ______________________________________________________
+*  GitHub Repository URL: https://github.com/VarunxChhabra/web322-app
 *
 ********************************************************************************/ 
 
