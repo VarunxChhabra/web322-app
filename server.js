@@ -118,7 +118,7 @@ app.get("/categories", function (req, res) {
 });
 
 app.get("/posts/add", (req, res) => {
-  res.sendFile(path.join(__dirname, "/views/addPost.html"));
+  res.sendFile(path.join(__dirname, "/views/addpost.html"));
 });
 
 app.post("/posts/add", upload.single("featureImage"), (req, res) => {
